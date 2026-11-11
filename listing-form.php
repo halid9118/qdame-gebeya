@@ -111,7 +111,10 @@ $categories = [
     'Food'       => '🌽 ምግብና ሰብል / Food & Agriculture',
     'Household'  => '🏠 የቤት እቃ / Household Items',
     'Vehicle'    => '🚗 ተሽከርካሪ / Vehicles & Parts',
+    'Constraction'    => '🧱 የግንባታ ግብዓት  / Constraction Materials',
     'Services'   => '🔧 አገልግሎት / Services',
+    'Animals'    => '🐄 እንስሳት / Animals',
+    'Agricultural'=> '🚜 ግብርና ግብዓት / Agricultural',
     'Other'      => '📦 ሌላ / Other',
 ];
 ?>
